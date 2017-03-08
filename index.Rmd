@@ -3,4 +3,10 @@ title: "Data Fest 2017"
 output: html_document
 ---
 
-Sign up link for UNC's DataFest team: [http://bit.ly/2lT25h1](http://bit.ly/2lT25h1)
+Sign up link for UNC's DataFest teams: [http://bit.ly/2lT25h1](http://bit.ly/2lT25h1). DataFest will take place March 31- April 2nd this year. For more details please see the DataFest website: [http://www2.stat.duke.edu/datafest/](http://www2.stat.duke.edu/datafest/).
+
+You can find some introduction to data science tutorials for R and Python [here](https://idc9.github.io/ds_tutorials/).
+
+I made a [resource page](http://rpubs.com/iain/DataFest) for DataFest last year which you might find useful.
+
+If you have any qustions email Iain (iain@unc.edu) or Robin Cunningham (rjcunnin@email.unc.edu).
