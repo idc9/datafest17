@@ -1,17 +1,45 @@
 ---
 title: "Data Fest 2017"
-output: html_document
+output:
+  html_document:
+    theme: cosmo
+    toc: yes
+    toc_float: yes
 ---
 
-Sign up link for UNC's DataFest teams: [http://bit.ly/2lT25h1](http://bit.ly/2lT25h1). DataFest will take place March 31- April 2nd this year. For more details please see the DataFest website: [http://www2.stat.duke.edu/datafest/](http://www2.stat.duke.edu/datafest/).
 
-We will hold a few data science tutorials at UNC
+DataFest will take place March 31- April 2nd this year. For more details please see the DataFest website: [**http://www2.stat.duke.edu/datafest/**](http://www2.stat.duke.edu/datafest/).
+
+If you have any qustions email [Iain](https://idc9.github.io/) (iain@unc.edu) or Robin Cunningham (rjcunnin@email.unc.edu).
+
+# **Sign up**
+If you already have a team put together please sign up on [**this google form**](https://docs.google.com/forms/d/e/1FAIpQLSfzl8jB9mmlZlh47cktCV-lSlovDMm5bBysY_QRUgSFkVNt2g/viewform?c=0&w=1).
+
+If you are looking for a team please sign up on [**this google form**](https://docs.google.com/forms/d/e/1FAIpQLSfd6bPNobZy2BgjZavAX96kDgeS598FnpwAAvYftYJ9Er2vUQ/viewform?c=0&w=1).
+
+
+For updates from UNC (tutorials, rides, etc) sign up on [**this google form**](https://docs.google.com/spreadsheets/d/1j6mZfcOXjz8QLOqQoQs1U2Z9roRuqiB-o0q4NQTlG2I/edit#gid=0). This one is optional, one of the previous two is required. 
+
+
+# **Tutorials**
+
+We will hold 2 data science tutorials at UNC
 
 - Monday March 20 (7:30 - 9:00 pm) in Hanes 120
 - Tuesday March 28 (7:30 - 9:00 pm) in Hanes 120
 
 We will go through a few data science [tutorials](https://idc9.github.io/ds_tutorials/) in R and Python. Duke will also have a few tutorials you are welcome to attend which can be found on the DataFest website.
 
+# **Resources**
+
+[R for Data Science](http://r4ds.had.co.nz/) is the R bible.
+
+
+[This google doc](https://docs.google.com/document/d/18gBqIGNyOqzqygRjFAIA7jnieXRVMtBc2_yL7UD-3TM/edit?usp=sharing) contains a list of my favorite statistics/machine learning/data science resources (most are free online).
+
+The [JHU data science specialization](https://www.coursera.org/specializations/jhu-data-science) on Coursera is a good crash course in R.
+
+[Chris Albon's](https://chrisalbon.com/) website has a lot of useful code examples in R and Python (especially good for learning [pandas](http://pandas.pydata.org/)).
+
 I made a [resource page](http://rpubs.com/iain/DataFest) for DataFest last year which you might find useful.
 
-If you have any qustions email Iain (iain@unc.edu) or Robin Cunningham (rjcunnin@email.unc.edu).
