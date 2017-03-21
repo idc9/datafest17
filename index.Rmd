@@ -28,7 +28,7 @@ We will hold 2 data science tutorials at UNC
 - Monday March 20 (7:30 - 9:00 pm) in Hanes 120
 - Tuesday March 28 (7:30 - 9:00 pm) in Hanes 120
 
-We will go through a few data science [tutorials](https://idc9.github.io/ds_tutorials/) in R and Python. Duke will also have a few tutorials you are welcome to attend which can be found on the DataFest website.
+We will go through a few data science [**tutorials**](https://idc9.github.io/ds_tutorials/) in R and Python. Duke will also have a few tutorials you are welcome to attend which can be found on the DataFest website.
 
 # **Resources**
 
